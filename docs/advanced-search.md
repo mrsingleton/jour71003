@@ -1,9 +1,12 @@
-# Advanced Google Search Techniques
+# Advanced Search Techniques
 Get more out of your search results by employing these targeted methods and modifiers
 
-Notes from [Google Search for Journalists](https://learno.net/classroom/google-search-for-journalists/getting-started-with-google-refinements#tab2)
-
 ---
+
+Google search
+Twitter search
+Facebook search
+
 
 ## Search methods
 #### Exclude
@@ -40,6 +43,9 @@ Return recent info or date range
 #### Search tools
 More Tools
 Camera icon
+
+## Maps search
+Update results when map moves
 
 ## Google public data
 - [Public Data Directory](google.com/publicdata/directory "Find available data sets")
