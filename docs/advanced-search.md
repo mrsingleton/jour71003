@@ -5,7 +5,7 @@ Notes from [Google Search for Journalists](https://learno.net/classroom/google-s
 
 ---
 
-## Search tools
+## Search methods
 #### Exclude
 After desired search terms, use the "minus" symbol before non-desired search terms
 #### Define
@@ -35,6 +35,11 @@ Return recent info or date range
 #### Specific file type
 #### Specific part of site document
 #### SFW images only
+
+## Image search
+#### Search tools
+More Tools
+Camera icon
 
 ## Google public data
 - [Public Data Directory](google.com/publicdata/directory "Find available data sets")
