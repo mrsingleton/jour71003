@@ -1,7 +1,3 @@
----
-title: Advanced Search
----
-
 # Advanced Search Techniques
 Get more out of your search results by employing these targeted methods and modifiers
 
